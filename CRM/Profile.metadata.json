@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"CRM.Profile"},{"v":2,"unique":true,"key":{"profileName":1},"name":"profileName_1","ns":"CRM.Profile","background":true}],"uuid":"34004b275a894e2a850b94a5f4d0841c"}

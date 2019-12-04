@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"CRM.Order"},{"v":2,"unique":true,"key":{"name":1},"name":"name_1","ns":"CRM.Order","background":true}],"uuid":"827812e2741045a183f251e424ba96fd"}
